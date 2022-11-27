@@ -4,6 +4,7 @@
 | PROJECT NAME  | DOMAIN       | TYPE         | PROJECT REPO  | README |  
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Megatron ChatBot  | Product/ Service  | Name Entity Recognition  | [Link](https://github.com/Intuitive-Brilliance/Megatron-ChatBot) | [More](https://github.com/Intuitive-Brilliance/Megatron-ChatBot/tree/main#readme)  |
+| Brand Measures  | Product/ Service  | Sentiment Analysis  | [Link](https://github.com/Intuitive-Brilliance/Megatron-ChatBot) | [More](https://github.com/Intuitive-Brilliance/Megatron-ChatBot/tree/main#readme)  |
 | Paraphraser  | Product/ Service  | Paraphrasal  | [Link](https://github.com/Intuitive-Brilliance/Megatron-ChatBot) | [More](https://github.com/Intuitive-Brilliance/Megatron-ChatBot/tree/main#readme)  |
 | Keyword Extractor & Summarizer  | Product/ Service  | Summarization | [Link](https://github.com/Intuitive-Brilliance/Megatron-ChatBot) | [More](https://github.com/Intuitive-Brilliance/Megatron-ChatBot/tree/main#readme)  |
 | Machine Translator & Keyword Spotter | Product/ Service  | Translation  | [Link](https://github.com/Intuitive-Brilliance/Megatron-ChatBot) | [More](https://github.com/Intuitive-Brilliance/Megatron-ChatBot/tree/main#readme)  |
