@@ -20,7 +20,7 @@
 | Helmet Detection | Automobile  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
 | Traffic Vehicle Detection | Automobile  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
 | Fashion Apparel Detection | Fashion  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
-| Warehouse Apparel Detection | Industry  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
+| Warehouse Apparel Detection | Product | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
 | Image to Text OCR | Product/ Service  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
 | Shredder System | Manufacturing  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
 
