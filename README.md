@@ -16,7 +16,7 @@
 ## Computer Vision Projects
 | PROJECT NAME  | DOMAIN       | TYPE         | PROJECT REPO  | README |    
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Brain Tumor Detection | Medicine  | Segmentation | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
+| Brain Tumor Detection | Medicine  | Segmentation | [Link](https://github.com/Intuitive-Brilliance/Brain-Tumor-Detection) | [More](https://github.com/Intuitive-Brilliance/Brain-Tumor-Detection/tree/main#readme)  |
 | Automatic Number Plate Detection | Automobile  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
 | Helmet Detection | Automobile  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
 | Traffic Vehicle Detection | Automobile  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
