@@ -3,6 +3,7 @@
 ## Natrual Language Processing Projects
 | PROJECT NAME  | DOMAIN       | TYPE         | PROJECT REPO  | README |  
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Paper Replication: Image Caption Generator  | Product/ Service  | Image Captioning  | [Link](https://github.com/hakeematyab/Neural-Image-Caption-Generator-Show-and-Tell-Paper-Replication) | [More]
 | AuthentiFeel  | Product/ Service  | Sentiment Analysis  | [Link](https://github.com/hakeematyab/AuthentiFeel) | [More](https://github.com/hakeematyab/AuthentiFeel/blob/main/README.md)  |
 | Megatron ChatBot  | Product/ Service  | Name Entity Recognition  | [Link](https://github.com/Intuitive-Brilliance/Megatron-ChatBot) | [More](https://github.com/Intuitive-Brilliance/Megatron-ChatBot/tree/main#readme)  |
 | Brand Measures  | Product/ Service  | Sentiment Analysis  | [Link](https://github.com/Intuitive-Brilliance/Brand_Measures) | [More](https://github.com/Intuitive-Brilliance/Brand_Measures/tree/main#readme)  |
