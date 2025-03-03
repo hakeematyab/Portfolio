@@ -3,6 +3,7 @@
 ## Natrual Language Processing Projects
 | PROJECT NAME  | DOMAIN       | TYPE         | PROJECT REPO  | README |  
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| AuditPulse: AI-Powered Continuous Financial Auditing  | Finance | AI Auditing / MLOps | [Link](https://github.com/hakeematyab/AuditPulse) | [More](https://github.com/hakeematyab/AuditPulse/) |  
 | CareConnect: A Personal Health Assistant  | Healthcare | Text Generation/ ChatBot  | [Link](https://github.com/hakeematyab/CareConnect) | [More](https://github.com/hakeematyab/CareConnect/blob/main/reports/CareConnectReport.pdf)
 | Paper Replication: Image Caption Generator  | Product/ Service  | Image Captioning  | [Link](https://github.com/hakeematyab/Neural-Image-Caption-Generator-Show-and-Tell-Paper-Replication) | [More](https://github.com/hakeematyab/AuthentiFeel/blob/main/documents/authentifeel_project_report.pdf)
 | AuthentiFeel  | Product/ Service  | Sentiment Analysis  | [Link](https://github.com/hakeematyab/AuthentiFeel) | [More](https://github.com/hakeematyab/AuthentiFeel/blob/main/README.md)  |
@@ -19,6 +20,7 @@
 ## Computer Vision Projects
 | PROJECT NAME  | DOMAIN       | TYPE         | PROJECT REPO  | README |    
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Reliable & Explainable Brain Tumor Segmentation | Healthcare | Medical Imaging / Segmentation | [Link](https://github.com/hakeematyab/Reliable-Explainable-Brain-Tumor-Segmentation) | [More](https://github.com/hakeematyab/Reliable-Explainable-Brain-Tumor-Segmentation) | 
 | Brain Tumor Detection | Medicine  | Segmentation | [Link](https://github.com/Intuitive-Brilliance/Brain-Tumor-Detection) | [More](https://github.com/Intuitive-Brilliance/Brain-Tumor-Detection/tree/main#readme)  |
 | Automatic Number Plate Detection | Automobile  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
 | Helmet Detection | Automobile  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
