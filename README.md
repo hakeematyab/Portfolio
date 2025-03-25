@@ -20,6 +20,7 @@
 ## Computer Vision Projects
 | PROJECT NAME  | DOMAIN       | TYPE         | PROJECT REPO  | README |    
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Vision Transformer Replication (ViT-Base) | Computer Vision | Image Classification | [Link](https://github.com/hakeematyab/Paper-Replication-Vision-Transformer-ViT) | [More](https://github.com/hakeematyab/Paper-Replication-Vision-Transformer-ViT/blob/main/README.md) |
 | Reliable & Explainable Brain Tumor Segmentation | Healthcare | Medical Imaging / Segmentation | [Link](https://github.com/hakeematyab/Reliable-Explainable-Brain-Tumor-Segmentation) | [More](https://github.com/hakeematyab/Reliable-Explainable-Brain-Tumor-Segmentation) | 
 | Brain Tumor Detection | Medicine  | Segmentation | [Link](https://github.com/Intuitive-Brilliance/Brain-Tumor-Detection) | [More](https://github.com/Intuitive-Brilliance/Brain-Tumor-Detection/tree/main#readme)  |
 | Automatic Number Plate Detection | Automobile  | Detection  | [Link](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition) | [More](https://github.com/Intuitive-Brilliance/Automatic-Number-Plate-Recognition/tree/main#readme)  |
@@ -35,8 +36,6 @@
 ## Time Series Projects
 | PROJECT NAME  | DOMAIN       | TYPE         | PROJECT REPO  | README |  
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Solar Energy Predction  | Energy  | Forecasting  | [Link](https://github.com/Intuitive-Brilliance/Job-A-Thon/tree/main/Analytics_Vidhya/Green_Energy) | [More](https://github.com/Intuitive-Brilliance/Job-A-Thon/tree/main/Analytics_Vidhya/Green_Energy#readme)  |
-| Solar Energy Predction  | Energy  | Forecasting  | [Link](https://github.com/Intuitive-Brilliance/Job-A-Thon/tree/main/Analytics_Vidhya/Green_Energy) | [More](https://github.com/Intuitive-Brilliance/Job-A-Thon/tree/main/Analytics_Vidhya/Green_Energy#readme)  |
 | Solar Energy Predction  | Energy  | Forecasting  | [Link](https://github.com/Intuitive-Brilliance/Job-A-Thon/tree/main/Analytics_Vidhya/Green_Energy) | [More](https://github.com/Intuitive-Brilliance/Job-A-Thon/tree/main/Analytics_Vidhya/Green_Energy#readme)  |
 
 
